@@ -7,23 +7,23 @@ Tableau de bord
 
 | Fonctionnalité    | État    | Développeur |
 | ----------------- | ------- | ----------- |
-| Fonctionnalité 1  | À faire |             |
-| Fonctionnalité 2  | À faire |             |
-| Fonctionnalité 3  | À faire |             |
+| Fonctionnalité 1  | ✅      |    Semih    |
+| Fonctionnalité 2  | ✅      |    Semih    |
+| Fonctionnalité 3  | ✅      |   Clément   |
 | Fonctionnalité 4  | ✅      | Marcelin    |
-| Fonctionnalité 5  | À faire |             |
-| Fonctionnalité 6  | À faire |             |
-| Fonctionnalité 7  | À faire |             |
+| Fonctionnalité 5  | ✅      |    Semih    |
+| Fonctionnalité 6  | ✅      |    Raouf    |
+| Fonctionnalité 7  | ✅      |   Clément   |
 | Fonctionnalité 8  | À faire |             |
-| Fonctionnalité 9  | À faire |             |
-| Fonctionnalité 10 | À faire |             |
-| Fonctionnalité 11 | À faire |             |
+| Fonctionnalité 9  | ✅      |    Raouf    |
+| Fonctionnalité 10 | ✅      |    Raouf    |
+| Fonctionnalité 11 | ✅      |    Raouf    |
 | Fonctionnalité 12 | À faire |             |
 | Fonctionnalité 13 | À faire |             |
 | Fonctionnalité 14 | ✅      | Marcelin    |
 | Fonctionnalité 15 | ✅      | Marcelin    |
 | Fonctionnalité 16 | ✅      | Marcelin    |
-| Fonctionnalité 17 | ✅      |             |
+| Fonctionnalité 17 | ✅      |   Semih     |
 | Fonctionnalité 18 | À faire |             |
 | Fonctionnalité 19 | À faire |             |
 | Fonctionnalité 20 | À faire |             |
@@ -33,3 +33,6 @@ Tableau de bord
 | Fonctionnalité 24 | À faire |             |
 | Fonctionnalité 25 | À faire |             |
 | Fonctionnalité 26 | À faire |             |
+| Composante docker,|  ✅     |  Clément   |
+| docker compose &  |  ✅     |  Clément   |
+| déploiment docketu|  ✅     |  Clément   |
